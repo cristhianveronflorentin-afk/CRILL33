@@ -6,8 +6,7 @@ Bem-vindo ao meu site dedicado à franquia **Resident Evil**! Criado com HTML e 
 
 ## 🔗 Acesse o site
 
-👉 [https://seunome.github.io/resident-evil-site](https://seunome.github.io/resident-evil-site)  
-*(Substitua com o link real gerado pelo GitHub Pages)*
+👉  cristhianveronflorentin-afk.github.io
 
 ---
 
