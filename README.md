@@ -6,7 +6,7 @@ Bem-vindo ao meu site dedicado à franquia **Resident Evil**! Criado com HTML e 
 
 ## 🔗 Acesse o site
 
-👉  cristhianveronflorentin-afk.github.io
+👉  https://cristhianveronflorentin-afk.github.io/CRILL33/
 
 ---
 
@@ -28,4 +28,4 @@ Bem-vindo ao meu site dedicado à franquia **Resident Evil**! Criado com HTML e 
 
 ---
 
-## 📦 cristhianveronflorentin-afk.github.io
+## 📦https://cristhianveronflorentin-afk.github.io/CRILL33/
