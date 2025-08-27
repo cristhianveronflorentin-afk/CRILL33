@@ -28,7 +28,4 @@ Bem-vindo ao meu site dedicado à franquia **Resident Evil**! Criado com HTML e 
 
 ---
 
-## 📦 Como Clonar e Rodar Localmente
-
-```bash
-git clone  cristhianveronflorentin-afk.github.io
+## 📦 cristhianveronflorentin-afk.github.io
