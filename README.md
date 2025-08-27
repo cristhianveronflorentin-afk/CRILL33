@@ -31,5 +31,4 @@ Bem-vindo ao meu site dedicado à franquia **Resident Evil**! Criado com HTML e 
 ## 📦 Como Clonar e Rodar Localmente
 
 ```bash
-git clone https://github.com/seunome/resident-evil-site.git
-cd resident-evil-site
+git clone  cristhianveronflorentin-afk.github.io
